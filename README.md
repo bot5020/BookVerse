@@ -1,6 +1,6 @@
 # BookVerse
 
-[![Посмотреть демонстрацию](#)](https://disk.yandex.ru/d/RwFJBBFvafxUYw) 
+[Посмотреть демонстрацию работы доп. задания](https://disk.yandex.ru/d/RwFJBBFvafxUYw) 
 
 ---
 
