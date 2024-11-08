@@ -1,6 +1,7 @@
 # BookVerse
 
 [Посмотреть демонстрацию работы доп. задания](https://disk.yandex.ru/d/RwFJBBFvafxUYw)
+---
 [Посмотреть демонстрацию работы основного решения](https://disk.yandex.ru/d/DG4L-1W9d5UCFg)
 ---
 
